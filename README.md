@@ -1,1 +1,2 @@
-# bugtrons
+# 🐞 BUGTRONS
+DEBUG THE CODE TO RISE & SHINE ✨
