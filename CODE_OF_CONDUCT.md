@@ -27,6 +27,14 @@ If a participant engages in unacceptable behavior, the event organizers may take
 
 ##  What To Do If You Witness Or Are Subject To Unacceptable Behavior?
 If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a event organizer as soon as possible.
+The BUGTRONS team will be available to help participants any time they need any help.
+
+## Scope
+We expect all event participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all event platforms and event-related social events.
+
+##  Contact Information
+Participants can ask for any help or discuss anything they want in our [discord server](https://discord.gg/DjfvKDswUz)
+
 
 
 
