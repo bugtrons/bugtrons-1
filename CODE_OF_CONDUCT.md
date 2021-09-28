@@ -30,7 +30,7 @@ If you are subject to unacceptable behavior, notice that someone else is being s
 The BUGTRONS team will be available to help participants any time they need any help.
 
 ## Scope
-We expect all event participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all event platforms and event-related social events.
+We expect all event participants to abide by this code of conduct at all event platforms and event-related social events.
 
 ##  Contact Information
 Participants can ask for any help or discuss anything they want in our [discord server](https://discord.gg/DjfvKDswUz)
