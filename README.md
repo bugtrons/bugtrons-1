@@ -1,9 +1,16 @@
-# 🐞 BUGTRONS
-DEBUG THE CODE TO RISE & SHINE ✨
-
-![bugtrons-banner](bugtrons-banner.png)
-
-## 🤔 ABOUT
+<div align="center">
+  <h1 align="center"> 🐞 BUGTRONS </h1>
+</div>
+<div align="center">
+  <h4 align="center"> DEBUG THE CODE TO RISE & SHINE ✨ </h4>
+</div>
+</br>
+<p align="center">
+    <img width="100%" src="bugtrons-banner.png">
+</p>
+<div align="center">
+  <h2 align="center"> 🤔 ABOUT </h2>
+</div>
 THE BUGTRONS IS A STUDENT-RUN CONTEST, ORIGINATED WITH THE COLLABORATION OF TWO TREMENDOUS TECH-LEAD COMMUNITIES, THE ALGORITHMS & DEVSTRONS'.
 
 > **"Competition makes us faster. Collaboration makes us better." 💪**
@@ -12,7 +19,8 @@ WE BELIEVE IN OPEN SOURCE FOR EVERYONE, AND CODING ABILITY ENHANCES THE FOLKS DE
 
 **STRUCTURE:** THREE-TIER, MULTI-DIVISION CONTEST, AND CODING ROUNDS
 SEE INDIVIDUAL SHOW ADDENDUMS FOR TIER-TWO MULTI-DIVISION CONTEST, AFTER COMPETED & CLEARED THE ROUND FOR TIER-ONE.
-
+</br>
+</br>
 ## 💻 CONTEST LEVEL DIVISIONS
 
 **TIER-ONE: (LEVEL 1, C, NOVICE) OPEN TO ALL.**
@@ -40,7 +48,9 @@ SEE INDIVIDUAL SHOW ADDENDUMS FOR TIER-TWO MULTI-DIVISION CONTEST, AFTER COMPETE
 
 **NOTE:** THIS ROUND WILL BE SCHEDULED AS THE FIRST COMPETITION FROM 10.30 PM - 11.00 PM.
 
-![image](https://user-images.githubusercontent.com/75872316/135060994-04d27f7b-b6de-4206-8044-36bd949f3e00.png)
+<p align="center">
+    <img width="60%" src="contest-winner-banner.png">
+</p>
 
 ## 📰 CODE OF CONDUCT
 Please read this guide from [here](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md).
