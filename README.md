@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"> 🐞 BUGTRONS </h1>
-</div>
+</div> 
 <div align="center">
   <h4 align="center"> DEBUG THE CODE TO RISE & SHINE ✨ </h4>
 </div>
