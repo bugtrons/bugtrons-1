@@ -57,7 +57,10 @@ Please read this guide from [here](https://github.com/devstrons/bugtrons/blob/ma
 
 ## 👕 PERKS & GIVEAWAYS
 All divisions will be judge simultaneously. Top 3 Hackers will be awarded as below:
-- TOP 10 FROM TIER-TWO                 ->    CERTIFICATE OF APPRECIATION
-- RANK 3RD                             ->    CERTIFICATE FOR 3RD POSITION
-- RANK 2ND                             ->     STICKERS & CERTIFICATE FOR 2ND POSITION
-- RANK 1ST                             ->     T-SHIRT & CERTIFICATE FOR 1ST POSITION
+
+| POSITION | SWAGS |
+| :---         | :---           |
+| TOP 10 FROM TIER-TWO | CERTIFICATE OF APPRECIATION |
+| RANK 3RD     | CERTIFICATE FOR 3RD POSITION |
+| RANK 2ND     | STICKERS & CERTIFICATE FOR 2ND POSITION |
+| RANK 1ST     | T-SHIRT & CERTIFICATE FOR 1ST POSITION |
