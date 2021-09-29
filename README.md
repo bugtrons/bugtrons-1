@@ -53,7 +53,7 @@ SEE INDIVIDUAL SHOW ADDENDUMS FOR TIER-TWO MULTI-DIVISION CONTEST, AFTER COMPETE
 </p>
 
 ## 📰 CODE OF CONDUCT
-Please read this guide from [here](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md).
+Please follow the guide from [here](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md).
 
 ## 👕 PERKS & GIVEAWAYS
 All divisions will be judge simultaneously. Top 3 Hackers will be awarded as below:
