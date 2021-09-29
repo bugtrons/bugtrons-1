@@ -13,12 +13,12 @@ jobs:
           curl --request POST \
             --header "Accept: application/vnd.github.v3+json" \
             --header "authorization: Bearer ${{ secrets.TOKEN }}" \
-            --url https://api.github.com/orgs/suckless-org/repos \
+            --url https://api.github.com/orgs/devstrons/repos \
             --data '{"name":"Hacker-${{github.event.pull_request.user.login}}", "private":"true"' \
             --fail
       - name: Add colobrator
         run: |
-          curl --location --request PUT 'https://api.github.com/repos/suckless-org/Hacker-${{github.event.pull_request.user.login}}/collaborators/${{github.event.pull_request.user.login}}' \
+          curl --location --request PUT 'https://api.github.com/repos/devstrons/Hacker-${{github.event.pull_request.user.login}}/collaborators/${{github.event.pull_request.user.login}}' \
             --header 'authorization: token ${{ secrets.TOKEN }}' \
             --header 'Content-Type: application/json' \
             --data-raw '{ "permission": "admin" }'
