@@ -12,42 +12,43 @@
   <h2 align="center"> 🤔 ABOUT </h2>
 </div>
 
-#### THE BUGTRONS IS A STUDENT-RUN CONTEST, ORIGINATED WITH THE COLLABORATION OF TWO TREMENDOUS TECH-LEAD COMMUNITIES, THE ALGORITHMS & DEVSTRONS'.
+#### The BUGTRONS is a student-run contest, originated with the collaboration of two tremendous tech-lead communities, THE ALGORITHMS & DEVSTRONS'.
 
 > **"Competition makes us faster. Collaboration makes us better." 💪**
 
-WE BELIEVE IN OPEN SOURCE FOR EVERYONE, AND CODING ABILITY ENHANCES THE FOLKS DEVELOPMENT AMONG COMMUNITIES. 💥
+We believe in open source for everyone, and coding ability enhances the folks development among communities. 💥
 
-**STRUCTURE:** THREE-TIER, MULTI-DIVISION CONTEST, AND CODING ROUNDS
-SEE INDIVIDUAL SHOW ADDENDUMS FOR TIER-TWO MULTI-DIVISION CONTEST, AFTER COMPETED & CLEARED THE ROUND FOR TIER-ONE.
-</br>
+**STRUCTURE:** Three-Tier, Multi-Division contest, and Coding Rounds.
+
+See individual show addendums for tier-two multi-division contest, after competed & cleared the round for tier-one.</br>
 </br>
 ## 💻 CONTEST LEVEL DIVISIONS
 
 **TIER-ONE: (LEVEL 1, C, NOVICE) OPEN TO ALL.**
-- FOLLOW US ON TWITTER HANDLES LISTED BELOW:-
+- Follow us on twitter handles listed below :-
 
   [DEVSTRONS'](https://twitter.com/devstrons)      ||     [THE ALGORITHMS](https://twitter.com/The_Algorithms)
 
-**NOTE:** THIS ROUND WILL ACT AS REGISTRATION FOR HACKERS 
+**NOTE:** This round will act as registration for Hackers. 
 
 **TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.**
-- SOLVE 2 PROBLEMS VIA REPLIT, HOSTED ON DEVSTRONS' GITHUB ORGANIZATION.
-- PUBLISH SOLUTION CODE IN PRIVATE REPOSITORY PREFIX "bugtrons-<hacker-username>" ASSIGNED TO YOU.
-- ONBOARD WILL BE DONE AS AN OUTSIDE COLLABORATOR FOR A PRIVATE REPOSITORY.
-- SUBMISSION MUST BE CONSIDER THROUGH MICROSOFT FORM ONLY, WILL BE CIRCULATED IN BOTH SERVERS RELEVANT CHANNELS.
-- TOP 10 HACKERS WILL BE SELECTED & INTIMATED VIA MAIL FOR THE NEXT ROUND WITH MICROSOFT FORM FOR THE NEXT ROUND.
+- Solve 2 problems via Replit, hosted on DEVSTRONS' github organization.
+- Publish solution code in private repository prefix "bugtrons-<hacker-username>" assigned to you.
+- Onboard will be done as an outside collaborator for a private repository.
+- Submissions are considered through microsoft form only, the form will be circulated in both servers’ relevant channels.
+- Top 10 hackers will be selected & intimated via mail for the next round with microsoft form for the next round.
 
-**NOTE:** THIS ROUND WILL BE SCHEDULED AS THE FIRST COMPETITION FROM 9.00 PM - 10.00 PM.
-  
+
+**NOTE:** This round will be scheduled as the first competition from 9.00 PM - 10.00 PM.
+
 **TIER-THREE: (LEVEL 3, A, WINNER) CLEARED LEVEL 2.**
-- SOLVE ONLY ONE PROBLEM VIA REPLIT, HOSTED ON DEVSTRONS' GITHUB ORGANIZATION.
-- PUBLISH SOLUTION CODE IN YOUR PRIVATE REPOSITORY AS SAME AS ABOVE MENTIONED.
-- COLLAB WITH ORGANIZERS ONLY FOR ACCESS TO HACKER'S PRIVATE REPOSITORY.
-- SUBMISSION MUST BE CONSIDER THROUGH MICROSOFT FORM ONLY, WILL BE CIRCULATED VIA REGISTERED E-MAIL.
-- HERE'S THE TIME! RESULTS WILL BE OUT AT BOTH SERVER'S ANNOUNCEMENT CHANNELS.
+- Solve only one problem via Replit, hosted on DEVSTRONS’ github organization.
+- Publish solution code in your private repository as same as above mentioned.
+- Collab with organizers only for access to hacker's private repository.
+- Submissions are considered through microsoft form only, the form will be circulated via registered E-mail.
+- Here's the time! Results will be out at both Server's announcement channels.
 
-**NOTE:** THIS ROUND WILL BE SCHEDULED AS THE FIRST COMPETITION FROM 10.30 PM - 11.00 PM.
+**NOTE:** This round will be scheduled as the first competition from 10.30 PM - 11.00 PM.
 
 <p align="center">
     <img width="60%" src="contest-winner-banner.png">
