@@ -39,7 +39,7 @@ See individual show addendums for tier-two multi-division contest, after compete
 - Top 10 hackers will be selected & intimated via mail for the next round with microsoft form for the next round.
 
 
-**NOTE:** This round will be scheduled as the first competition from 9.00 PM - 10.00 PM.
+**NOTE:** This round will be scheduled as the first competition from 8.00 PM - 9.00 PM.
 
 **TIER-THREE: (LEVEL 3, A, WINNER) CLEARED LEVEL 2.**
 - Solve only one problem via Replit, hosted on DEVSTRONS’ github organization.
@@ -48,7 +48,7 @@ See individual show addendums for tier-two multi-division contest, after compete
 - Submissions are considered through microsoft form only, the form will be circulated via registered E-mail.
 - Here's the time! Results will be out at both Server's announcement channels.
 
-**NOTE:** This round will be scheduled as the first competition from 10.30 PM - 11.00 PM.
+**NOTE:** This round will be scheduled as the first competition from 10.00 PM - 11.00 PM.
 
 <p align="center">
     <img width="60%" src="contest-winner-banner.png">
