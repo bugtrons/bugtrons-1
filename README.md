@@ -6,7 +6,7 @@
 </div>
 </br>
 <p align="center">
-    <img width="100%" src="bugtrons-banner.png">
+    <img width="100%" src="assets/bugtrons-banner.png">
 </p>
 <div align="center">
   <h2 align="center"> 🤔 ABOUT </h2>
@@ -29,7 +29,7 @@ SEE INDIVIDUAL SHOW ADDENDUMS FOR TIER-TWO MULTI-DIVISION CONTEST, AFTER COMPETE
 
   [DEVSTRONS'](https://twitter.com/devstrons)      ||     [THE ALGORITHMS](https://twitter.com/The_Algorithms)
 
-**NOTE:** THIS ROUND WILL ACT AS REGISTRATION FOR HACKERS BY FILLING [MS FORM](https://forms.office.com/r/Hc2B522hWh).
+**NOTE:** THIS ROUND WILL ACT AS REGISTRATION FOR HACKERS 
 
 **TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.**
 - SOLVE 2 PROBLEMS VIA REPLIT, HOSTED ON DEVSTRONS' GITHUB ORGANIZATION.
