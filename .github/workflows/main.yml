@@ -14,7 +14,7 @@ jobs:
             --header "Accept: application/vnd.github.v3+json" \
             --header "authorization: Bearer ${{ secrets.TOKEN }}" \
             --url https://api.github.com/orgs/devstrons/repos \
-            --data '{"name":"Hacker-${{github.event.pull_request.user.login}}", "private":"true"' \
+            --data '{"name":"hacker-${{github.event.pull_request.user.login}}", "private":"true"' \
             --fail
       - name: Add colobrator
         run: |
