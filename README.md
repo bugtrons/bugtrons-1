@@ -31,16 +31,16 @@ See individual show addendums for tier-two multi-division contest, after compete
 
 - Follow these steps for registration
   - `Fork` and `clone` the repository
-  - Open the repository in a code editor and create a new branch.
-  - Enter your details in the `HACKERS.md` file in the specified manner.
-  - Commit your changes in the new branch and push to github.
+  - Open the repository in a code editor and create a new branch
+  - Enter your details in the `HACKERS.md` file in the specified manner
+  - Commit your changes in the new branch and push to github
   - Create a Pull Request
-- This will serve as your registration and a user specific `hacker-{user}` Repository will be generated.
-- You are to push all your code onto the private repository created for you.
+- This will serve as your registration and a user specific `hacker-{user}` repository will be generated, where you'll be added as Outside Collaborator to access as Admin.
+- Now, you're set to push all your code onto the private repository created for you. :fire:
   
-**NOTE:** You must only do changes to the `HACKERD.md` file.
-
-**NOTE:** This round will act as registration for Hackers. 
+**NOTE:** 
+- You must only do changes to the `HACKERD.md` file
+- This round will act as registration for Hackers
 
 **TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.**
 - Solve 2 problems via Replit, hosted on DEVSTRONS' github organization.
