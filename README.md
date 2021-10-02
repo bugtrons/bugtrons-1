@@ -25,8 +25,8 @@ We believe in open source for everyone, and coding ability enhances the folks de
 See individual show addendums for tier-two multi-division contest, after competed & cleared the round for tier-one.</br>
 </br>
 
-## PARTICIPATION GUIDELINES
-Make sure to assemble in [workflow](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) of bugtrons.
+## ⚡ PARTICIPATION GUIDELINES
+Make sure to assemble under the [workflow](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) of bugtrons, without violating rules.
 
 ## 📰 CODE OF CONDUCT
 Please follow the guide from [here](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md).
