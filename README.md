@@ -26,7 +26,7 @@ See individual show addendums for tier-two multi-division contest, after compete
 </br>
 
 ## PARTICIPATION GUIDELINES
-Make sure to assemble in workflow of bugtrons.
+Make sure to assemble in [workflow](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) of bugtrons.
 
 ## 📰 CODE OF CONDUCT
 Please follow the guide from [here](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md).
