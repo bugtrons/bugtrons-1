@@ -45,14 +45,13 @@ See individual show addendums for tier-two multi-division contest, after compete
 **TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.**
 - Open the private repository where you've been boarded as an outside collaborator.
 - Create a file > add readme.md > Put in your REPLIT Account 
-- Make your Repl.it account Private 
+- Make sure to keep your [Repl.it](https://replit.com) account *hidden* 🤫 
 - Follow these steps for Tier-Two Challenge
-  - You can `Find questions on Bugtrons Repository`, in DEVSTRONS' Github organisation
-  - Solve any 2 questions, preferably on replit
-  - Publish solution code in private repository named `hacker-<your-name>` assigned to you.
+  - You can `Find questions on bugtrons Repository`, in DEVSTRONS' GitHub organisation
+  - Solve both the questions, preferably on replit
+  - Publish/Push your solution code in private repository named `hacker-<your-name>` assigned to you
  - Submissions are considered through microsoft form only, the form will be circulated in both servers’ relevant channels.
 - Top 10 hackers will be selected & intimated via mail for the next round with microsoft form for the next round.
-
 
 **NOTE:** This round will be scheduled as the first competition from 8.00 PM - 9.00 PM.
 
