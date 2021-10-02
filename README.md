@@ -35,7 +35,7 @@ See individual show addendums for tier-two multi-division contest, after compete
   - Enter your details in the `HACKERS.md` file in the specified manner
   - Commit your changes in the new branch and push to github
   - Create a Pull Request
-- This will serve as your registration and a user specific `hacker-{user}` repository will be generated, where you'll be added as Outside Collaborator to access as Admin.
+- This will serve as your registration and a user specific `hacker-<user-name>` repository will be generated, where you'll be added as Outside Collaborator to access as Admin.
 - Now, you're set to push all your code onto the private repository created for you. :fire:
   
 **NOTE:** 
@@ -43,10 +43,14 @@ See individual show addendums for tier-two multi-division contest, after compete
 - This round will act as registration for Hackers
 
 **TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.**
-- Solve 2 problems via Replit, hosted on DEVSTRONS' github organization.
-- Publish solution code in private repository prefix "bugtrons-<hacker-username>" assigned to you.
-- Onboard will be done as an outside collaborator for a private repository.
-- Submissions are considered through microsoft form only, the form will be circulated in both servers’ relevant channels.
+- Open the private repository where you've been boarded as an outside collaborator.
+- Create a file > add readme.md > Put in your REPLIT Account 
+- Make your Repl.it account Private 
+- Follow these steps for Tier-Two Challenge
+  - You can `Find questions on Bugtrons Repository`, in DEVSTRONS' Github organisation
+  - Solve any 2 questions, preferably on replit
+  - Publish solution code in private repository named `hacker-<your-name>` assigned to you.
+ - Submissions are considered through microsoft form only, the form will be circulated in both servers’ relevant channels.
 - Top 10 hackers will be selected & intimated via mail for the next round with microsoft form for the next round.
 
 
