@@ -12,7 +12,9 @@
   <h2 align="center"> 🤔 ABOUT </h2>
 </div>
 
-#### The BUGTRONS is a student-run contest, originated with the collaboration of two tremendous tech-lead communities, THE ALGORITHMS & DEVSTRONS'.
+#### The BUGTRONS is a student-run contest, organized with the collaboration of two tremendous tech-lead communities:-
+- DEVSTRONS': LEARN | CODE | TRON
+- THE ALGORITHMS: Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
 
 > **"Competition makes us faster. Collaboration makes us better." 💪**
 
@@ -76,7 +78,7 @@ All divisions will be judge simultaneously. Top 3 Hackers will be awarded as bel
 
 | POSITION | SWAGS |
 | :---         | :---           |
-| TOP 10 FROM TIER-TWO | CERTIFICATE OF APPRECIATION |
-| RANK 3RD     | CERTIFICATE FOR 3RD POSITION |
-| RANK 2ND     | STICKERS & CERTIFICATE FOR 2ND POSITION |
-| RANK 1ST     | T-SHIRT & CERTIFICATE FOR 1ST POSITION |
+| Top 10 (TIER-TWO) | Certificate of Appreciation |
+| Rank 3rd     | Certificate for stand 3rd |
+| Rank 2nd     | Stickers & Certificate for stand 2nd |
+| Rank 1ST     | T-Shirt & Certificate for 1st position |
