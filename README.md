@@ -6,17 +6,18 @@
 </div>
 </br>
 <p align="center">
-    <img width="100%" src="assets/bugtrons-banner.png">
+    <img width="100%" alt="Event banner" src="assets/bugtrons-banner.png">
 </p>
 <div align="center">
   <h2 align="center"> 🤔 ABOUT </h2>
 </div>
 
 #### The BUGTRONS is a student-run contest, organized with the collaboration of two tremendous tech-lead communities:-
+
 - DEVSTRONS': LEARN | CODE | TRON
 - THE ALGORITHMS: Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
 
-> **"Competition makes us faster. Collaboration makes us better." 💪**
+> **"Competition makes us faster. Collaboration makes us better 💪"**
 
 We believe in open source for everyone, and coding ability enhances the folks development among communities. 💥
 
@@ -26,12 +27,15 @@ See individual show addendums for tier-two multi-division contest, after compete
 </br>
 
 ## ⚡ PARTICIPATION GUIDELINES
+
 Make sure to assemble under the [instructions and workflow](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) of bugtrons, without violating the rules.
 
 ## 📰 CODE OF CONDUCT
-Every participant is requested to abide by the [code of conduct](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md). Failure to do so shall result in immediate disqualification.
+
+Every participant is requested to abide by the [Code of Conduct](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md). Failure to do so will result in immediate disqualification.
 
 ## 👕 PERKS & GIVEAWAYS
+
 All divisions will be judge simultaneously. Top 3 Hackers will be awarded as below:
 
 | **POSITION** | **SWAGS** |
