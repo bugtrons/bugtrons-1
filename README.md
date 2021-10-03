@@ -4,7 +4,7 @@
 <div align="center">
   <h4 align="center"> DEBUG THE CODE TO RISE & SHINE ✨ </h4>
 </div>
-</br>
+<br />
 <p align="center">
     <img width="100%" alt="Event banner" src="assets/bugtrons-banner.png">
 </p>
@@ -21,8 +21,8 @@
 
 We believe in open source for everyone, and coding ability enhances the folks development among communities.
 
-**STRUCTURE:** Three-Tier, Multi-Division contest, and Coding Rounds 🔥
-
+### STRUCTURE:
+Three-Tier, Multi-Division contest, and Coding Rounds 🔥 <br />
 See individual show addendums for tier-two multi-division contest, after competed & cleared the round for tier-one.</br>
 </br>
 
