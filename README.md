@@ -26,10 +26,10 @@ See individual show addendums for tier-two multi-division contest, after compete
 </br>
 
 ## ⚡ PARTICIPATION GUIDELINES
-Make sure to assemble under the [workflow](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) of bugtrons, without violating rules.
+Make sure to assemble under the [instructions and workflow](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) of bugtrons, without violating the rules.
 
 ## 📰 CODE OF CONDUCT
-Please follow the guide from [here](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md).
+Every participant is requested to abide by the [code of conduct](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md). Failure to do so shall result in immediate disqualification.
 
 ## 👕 PERKS & GIVEAWAYS
 All divisions will be judge simultaneously. Top 3 Hackers will be awarded as below:
