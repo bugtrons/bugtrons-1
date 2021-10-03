@@ -28,7 +28,7 @@ See individual show addendums for tier-two multi-division contest, after compete
 
 ## ⚡ PARTICIPATION GUIDELINES
 
-Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) without violate it.
+Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) without violating them.
 
 ## 📰 CODE OF CONDUCT
 
