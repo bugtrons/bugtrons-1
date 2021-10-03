@@ -19,9 +19,9 @@
 
 > **"Competition makes us faster. Collaboration makes us better 💪"**
 
-We believe in open source for everyone, and coding ability enhances the folks development among communities. 💥
+We believe in open source for everyone, and coding ability enhances the folks development among communities.
 
-**STRUCTURE:** Three-Tier, Multi-Division contest, and Coding Rounds.
+**STRUCTURE:** Three-Tier, Multi-Division contest, and Coding Rounds 🔥
 
 See individual show addendums for tier-two multi-division contest, after competed & cleared the round for tier-one.</br>
 </br>
