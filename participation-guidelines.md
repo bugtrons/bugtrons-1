@@ -34,12 +34,13 @@
 
 ᐉ This round will be scheduled as the first competition from 8.00 PM - 9.00 PM. <br />
 ᐉ Judgment will be done on the basis of microsoft forms' submission. <br />
-ᐉ This round doesn't include buggy code to debug, hackers need to warm up via `problem-solving` skills. 
+ᐉ This round doesn't include buggy code to debug, hackers need to warm up via `problem-solving` skills. <br />
+ᐉ Pressence of non-participating collaborators in your `hacker-<your name>` private repository will result in immediate disqualification.
 
 ### TIER-THREE: (LEVEL 3, A, WINNER) CLEARED LEVEL 2.
 - Solve the two given problems via Replit, hosted on DEVSTRONS’ GitHub organization.
 - Publish solution code in your private repository as same as above mentioned.
-- Reach out to the organisers if you're facing any issues pertaining to the repository
+- [Reach out to the organisers](https://github.com/devstrons/bugtrons/blob/main/team.md) if you're facing any issues pertaining to the repository
 - Submissions are considered through microsoft form only, the form will be circulated via registered E-mail to the top 10 participants.
 - Here's the time! Results will be out at both Server's announcement channels.
 
@@ -48,6 +49,7 @@
 ᐉ This round will be scheduled as the second competition from 10.00 PM - 11.00 PM. <br />
 ᐉ Judgement will be done on the basis of microsoft forms' submission. <br />
 ᐉ This round definitely includes buggy code to debug to ace this contest. Let's cool down!
+ᐉ Pressence of non-participating collaborators in your `hacker-<your name>` private repository will result in immediate disqualification.
 
 <p align="center">
     <img width="60%" src="assets/contest-winner-banner.png">
