@@ -37,9 +37,9 @@
 ᐉ This round doesn't include buggy code to debug, hackers need to warm up via `problem-solving` skills. 
 
 ### TIER-THREE: (LEVEL 3, A, WINNER) CLEARED LEVEL 2.
-- Solve only one problem via Replit, hosted on DEVSTRONS’ GitHub organization.
+- Solve the two given problems via Replit, hosted on DEVSTRONS’ GitHub organization.
 - Publish solution code in your private repository as same as above mentioned.
-- Collab with organizers only for access to hacker's private repository.
+- Reach out to the organisers if you're facing any issues pertaining to the repository
 - Submissions are considered through microsoft form only, the form will be circulated via registered E-mail.
 - Here's the time! Results will be out at both Server's announcement channels.
 
