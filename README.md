@@ -21,7 +21,7 @@
 
 We believe in open source for everyone, and coding ability enhances the folks development among communities.
 
-### STRUCTURE:
+### 🏗 STRUCTURE:
 Three-Tier, Multi-Division contest, and Coding Rounds 🔥 <br />
 See individual show addendums for tier-two multi-division contest, after competed & cleared the round for tier-one.</br>
 </br>
