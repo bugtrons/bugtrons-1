@@ -48,7 +48,7 @@
 
 ᐉ This round will be scheduled as the second competition from 10.00 PM - 11.00 PM. <br />
 ᐉ Judgement will be done on the basis of microsoft forms' submission. <br />
-ᐉ This round definitely includes buggy code to debug to ace this contest. Let's cool down!
+ᐉ This round definitely includes buggy code to debug to ace this contest. Let's cool down! <br />
 ᐉ Pressence of non-participating collaborators in your `hacker-<your name>` private repository will result in immediate disqualification.
 
 <p align="center">
