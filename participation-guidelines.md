@@ -40,7 +40,7 @@
 - Solve the two given problems via Replit, hosted on DEVSTRONS’ GitHub organization.
 - Publish solution code in your private repository as same as above mentioned.
 - Reach out to the organisers if you're facing any issues pertaining to the repository
-- Submissions are considered through microsoft form only, the form will be circulated via registered E-mail.
+- Submissions are considered through microsoft form only, the form will be circulated via registered E-mail to the top 10 participants.
 - Here's the time! Results will be out at both Server's announcement channels.
 
 **NOTE:** 
