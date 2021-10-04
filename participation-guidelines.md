@@ -14,9 +14,10 @@
 - This will serve as your registration and a user specific `hacker-<user-name>` repository will be generated, where you'll be added as Outside Collaborator to access as Admin.
 - Now, you're set to push all your code onto the private repository created for you. :fire:
   
-**NOTE:** 
-- You must only do changes to the `HACKERD.md` file
-- This round will act as registration for Hackers
+**NOTE:**<br />
+
+ᐉ You must only do changes to the `HACKERD.md` file <br />
+ᐉ This round will act as registration for Hackers
 
 **TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.**
 - Open the private repository where you've been boarded as an outside collaborator.
