@@ -21,7 +21,7 @@
 **TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.**
 - Open the private repository where you've been boarded as an outside collaborator.
 - Create a file > add readme.md > Put in your REPLIT Account 
-- Make sure to keep your [Repl.it](https://replit.com) account *hidden* 🤫 
+- Make sure to keep your [Repl.it](https://replit.com) account *hidden...* 🤫 
 - Follow these steps for Tier-Two Challenge
   - You can `Find questions on bugtrons Repository`, in DEVSTRONS' GitHub organisation
   - Solve both the questions, preferably on replit
@@ -29,16 +29,22 @@
  - Submissions are considered through microsoft form only, the form will be circulated in both servers’ relevant channels.
 - Top 10 hackers will be selected & intimated via mail for the next round with microsoft form for the next round.
 
-**NOTE:** This round will be scheduled as the first competition from 8.00 PM - 9.00 PM.
+**NOTE:** 
+- This round will be scheduled as the first competition from 8.00 PM - 9.00 PM.
+- Judgment will be done on the basis of microsoft forms' submission.
+- This round doesn't include buggy code to debug, hackers need to warm up via `problem-solving` skills. 
 
 **TIER-THREE: (LEVEL 3, A, WINNER) CLEARED LEVEL 2.**
-- Solve only one problem via Replit, hosted on DEVSTRONS’ github organization.
+- Solve only one problem via Replit, hosted on DEVSTRONS’ GitHub organization.
 - Publish solution code in your private repository as same as above mentioned.
 - Collab with organizers only for access to hacker's private repository.
 - Submissions are considered through microsoft form only, the form will be circulated via registered E-mail.
 - Here's the time! Results will be out at both Server's announcement channels.
 
-**NOTE:** This round will be scheduled as the first competition from 10.00 PM - 11.00 PM.
+**NOTE:** 
+- This round will be scheduled as the second competition from 10.00 PM - 11.00 PM.
+- Judgement will be done on the basis of microsoft forms' submission.
+- This round definitely includes buggy code to debug to ace this contest. Let's cool down!
 
 <p align="center">
     <img width="60%" src="assets/contest-winner-banner.png">
