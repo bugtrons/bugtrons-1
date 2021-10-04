@@ -41,5 +41,5 @@
 **NOTE:** This round will be scheduled as the first competition from 10.00 PM - 11.00 PM.
 
 <p align="center">
-    <img width="60%" src="contest-winner-banner.png">
+    <img width="60%" src="assets/contest-winner-banner.png">
 </p>
