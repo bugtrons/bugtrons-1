@@ -17,12 +17,12 @@
 - [DEVSTRONS'](https://twitter.com/devstrons): LEARN | CODE | TRON
 - [THE ALGORITHMS](https://github.com/TheAlgorithms): Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
 
-> **"Competition makes us faster. Collaboration makes us better 💪"**
+> **"Competition makes us faster. Collaboration makes us better"**
 
 We believe in open source for everyone, and coding ability enhances the folks development among communities.
 
 ### 🏗 STRUCTURE:
-Three-Tier, Multi-Division contest, and Coding Rounds 🔥 <br />
+Three-Tier, Multi-Division contest, and Coding Rounds <br />
 See individual show addendums for tier-two multi-division contest, after competed & cleared the round for tier-one.</br>
 </br>
 
