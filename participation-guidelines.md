@@ -1,6 +1,6 @@
 ## 💻 CONTEST LEVEL DIVISIONS
 
-**TIER-ONE: (LEVEL 1, C, NOVICE) OPEN TO ALL.**
+### TIER-ONE: (LEVEL 1, C, NOVICE) OPEN TO ALL.
 - Follow us on twitter handles listed below :-
 
   [DEVSTRONS'](https://twitter.com/devstrons)      ||     [THE ALGORITHMS](https://twitter.com/The_Algorithms)
@@ -19,7 +19,7 @@
 ᐉ You must only do changes to the `HACKERD.md` file <br />
 ᐉ This round will act as registration for Hackers
 
-**TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.**
+### TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.
 - Open the private repository where you've been boarded as an outside collaborator.
 - Create a file > add readme.md > Put in your REPLIT Account 
 - Make sure to keep your [Repl.it](https://replit.com) account *hidden...* 🤫 
@@ -30,12 +30,13 @@
  - Submissions are considered through microsoft form only, the form will be circulated in both servers’ relevant channels.
 - Top 10 hackers will be selected & intimated via mail for the next round with microsoft form for the next round.
 
-**NOTE:** 
-- This round will be scheduled as the first competition from 8.00 PM - 9.00 PM.
-- Judgment will be done on the basis of microsoft forms' submission.
-- This round doesn't include buggy code to debug, hackers need to warm up via `problem-solving` skills. 
+**NOTE:** <br />
 
-**TIER-THREE: (LEVEL 3, A, WINNER) CLEARED LEVEL 2.**
+ᐉ This round will be scheduled as the first competition from 8.00 PM - 9.00 PM. <br />
+ᐉ Judgment will be done on the basis of microsoft forms' submission. <br />
+ᐉ This round doesn't include buggy code to debug, hackers need to warm up via `problem-solving` skills. 
+
+### TIER-THREE: (LEVEL 3, A, WINNER) CLEARED LEVEL 2.
 - Solve only one problem via Replit, hosted on DEVSTRONS’ GitHub organization.
 - Publish solution code in your private repository as same as above mentioned.
 - Collab with organizers only for access to hacker's private repository.
