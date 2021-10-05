@@ -8,7 +8,7 @@
 - Follow these steps for registration
   - `Fork` and `clone` the repository
   - Open the repository in a code editor and create a new branch
-  - Enter your details in the `HACKERS.md` file in the specified manner
+  - Enter your details in the [`hackers.md`](https://github.com/devstrons/bugtrons/blob/main/hackers.md) file in the specified manner
   - Commit your changes in the new branch and push to github
   - Create a Pull Request
 - This will serve as your registration and a user specific `hacker-<user-name>` repository will be generated, where you'll be added as Outside Collaborator to access as Admin.
@@ -16,7 +16,7 @@
   
 **NOTE:**<br />
 
-ᐉ You must only do changes to the `HACKERD.md` file <br />
+ᐉ You must only do changes to the [`hackers.md`](https://github.com/devstrons/bugtrons/blob/main/hackers.md) file <br />
 ᐉ This round will act as registration for Hackers
 
 ### TIER-TWO: (LEVEL 2, B, MASTER) CLEARED LEVEL 1.
