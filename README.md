@@ -14,7 +14,7 @@
 
 #### The BUGTRONS is a student-run contest, organized with the collaboration of two tremendous tech-lead communities:-
 
-- [DEVSTRONS'](https://twitter.com/devstrons): Student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code & Tron (grow).
+- [DEVSTRONS'](https://twitter.com/devstrons): Student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code and Tron (grow).
 - [THE ALGORITHMS](https://github.com/TheAlgorithms): Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
 
 > **"Competition makes us faster. Collaboration makes us better"**
