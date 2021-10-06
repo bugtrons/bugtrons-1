@@ -1,7 +1,7 @@
 ## 💻 CONTEST LEVEL DIVISIONS
 
 ### TIER-ONE: (LEVEL 1, C, NOVICE) OPEN TO ALL.
-- Follow us on twitter handles listed below :-
+- Follow us on Twitter handles listed below :-
 
   [DEVSTRONS'](https://twitter.com/devstrons)      ||     [THE ALGORITHMS](https://twitter.com/The_Algorithms)
 
