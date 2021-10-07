@@ -17,4 +17,5 @@
 | 15. | dsdarimisetti@gmail.com | Divya Sri Darimisetti | [@irsayvid](https://twitter.com/irsayvid) | Bugs break us, make us |
 | 16. | namans.cs.20@nitj.ac.in | Naman Singla | [@Naman_sin](https://twitter.com/Naman_sin) | None |
 | 17. | patelr4142@gmail.com | Rahul Patel | [@U_N_R_3_A_L](https://twitter.com/U_N_R_3_A_L) | [@U-N-R-E-A-L](https://replit.com/@U-N-R-E-A-L) | print('Just Unreal!!') |
-| 18. | hisunzhenliang@outlook.com | Sun Zhenliang | [@CarlSunzl](https://twitter.com/CarlSunzl) | NULL |
+| 18. | rahul.09chouhan1996@gmail.com | Rahul Chouhan | [@RahulChouhan97](https://twitter.com/RahulChouhan97) |  |
+| 19. | hisunzhenliang@outlook.com | Sun Zhenliang | [@CarlSunzl](https://twitter.com/CarlSunzl) | NULL |
