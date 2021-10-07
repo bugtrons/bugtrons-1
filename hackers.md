@@ -5,3 +5,4 @@
 | 2002.tushar.kuntawar@gmail.com | Tushar Kuntawar | [@tusqasi](twitter.com/tusqasi) | `print("None")` |
 | krishguptadev@outlook.com | Krish Gupta | [@krishguptadev](https://twitter.com/krishguptadev) | Excited! This is gonna be my first competition 😊😳 |
 | vedaantrajeshirke@icloud.com | Vedaant Rajeshirke | [@rocktopus101](https://twitter.com/rocktopus101) | Looking forward to this! |
+| souvikrajsingh@gmail.com | Souvik Raj Singh | [@souvikrajsingh](https://twitter.com/souvikrajsingh) | Excited for this! |
