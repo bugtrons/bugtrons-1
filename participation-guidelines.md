@@ -27,7 +27,7 @@
   - You can `Find questions on bugtrons Repository`, in DEVSTRONS' GitHub organisation
   - Solve both the questions, preferably on replit
   - Publish/Push your solution code in private repository named `hacker-<your-name>` assigned to you
- - Submissions are considered through microsoft form only, the form will be circulated in both servers’ relevant channels.
+ - Submissions are considered through [microsoft form](https://forms.office.com/r/pn8B1PkGwH) only, the form will be circulated in both servers’ relevant channels.
 - Top 10 hackers will be selected & intimated via mail for the next round with microsoft form for the next round.
 
 **NOTE:** <br />
