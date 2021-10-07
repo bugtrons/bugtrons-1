@@ -23,3 +23,4 @@
 | 21. | sannidhyadubey@gmail.com | Sannidhya Dubey | [@TheGuyDangerous](https://twitter.com/TheGuyDangrous) | Inserts some random query from the net to seem wise |
 | 22. | sheikharsheel@gmail.com | Arsheel Sheikh | [@arsheeltwts](https://twitter.com/arsheeltwts) | Excited! |
 | 23. | hrituhkv04@gmail.com | Hritu Kumari | [@hrituhkv](https://twitter.com/hrituhkv) | Let's try this! |
+| 24. | connect.chiranjeev@gmail.com | Chiranjeev Thapliyal | [@Chiranjeev_25](https://twitter.com/Chiranjeev_25) | First competition! Let's go! 😅 |
