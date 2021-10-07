@@ -36,8 +36,8 @@
 ᐉ This round doesn't include buggy code to debug, hackers need to warm up via `problem-solving` skills. <br />
 ᐉ Pressence of non-participating collaborators in your `hacker-<your name>` private repository will result in immediate disqualification.<br />
 ᐉ This round will be scheduled as the first competition from 8.00 PM - 8.45 PM (IST).
-  - [Problem 1](): 15 min. (max)
-  - [Problem 2](): 30 min. (max)<br />
+  - [Problem 1](https://replit.com/@devstrons/bugtrons): 15 min. (max)
+  - [Problem 2](https://replit.com/@devstrons/bugtrons): 30 min. (max)<br />
 
 
 ### TIER-THREE: (LEVEL 3, A, WINNER) CLEARED LEVEL 2.
