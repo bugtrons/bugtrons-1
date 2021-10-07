@@ -53,7 +53,7 @@
 ᐉ This round definitely includes buggy code to debug to ace this contest. Let's cool down! <br />
 ᐉ Pressence of non-participating collaborators in your `hacker-<your name>` private repository will result in immediate disqualification.<br />
 ᐉ This round will be scheduled as the second competition from 9.30 PM - 10.00 PM (IST). <br />
-  - [Problem](): 30 min. (max)
+  - [Problem](https://replit.com/@devstrons/bugtrons-pro): 30 min. (max)
 
 <p align="center">
     <img width="60%" src="assets/contest-winner-banner.png">
