@@ -19,24 +19,43 @@
 
 > **"Competition makes us faster. Collaboration makes us better"**
 
+<div align="center">
 We believe in open source for everyone, and coding ability enhances the folks development among communities.
+</div>
 
-### 🏗 STRUCTURE:-
+<div align="center">
+  <h2 align="center"> 🏗 STRUCTURE:-</h2>
+ 
+
 Three-Tier, Multi-Division contest, and Coding Rounds <br />
 See individual show addendums for tier-two multi-division contest, after competed & cleared the round for tier-one.</br>
-</br>
+</br></div>
 
-## ⚡ PARTICIPATION GUIDELINES
+<div align="center">
+  <h1 align="center"> ⚡ PARTICIPATION GUIDELINES</h1>
 
 Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) without violating them.
+</div>
 
-## 📰 CODE OF CONDUCT
+<div align="center">
+  <h2 align="center"> 📰 CODE OF CONDUCT </h2>
 
 Every participant is requested to abide by the [Code of Conduct](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md). Failure to do so will result in immediate disqualification.
+</div> 
 
-## 👕 PERKS & GIVEAWAYS
+<div align="center">
+  <h2 align="center">👕 PERKS & GIVEAWAYS </h2>
+</div> 
 
+<div align="center">
 All divisions will be judge simultaneously. Top 3 Hackers will be awarded as below:
+</div>
+<br />
+<div align="center">
+
+<p align="center">
+    <img width="100%" src="assets/bugtrons-swags.png">
+</p>
 
 | **POSITION** | **SWAGS** |
 | :---:         | :---:           |
@@ -44,3 +63,4 @@ All divisions will be judge simultaneously. Top 3 Hackers will be awarded as bel
 | Rank 3rd     | **Certificate for stand 3rd** |
 | Rank 2nd     | **Stickers' pack** & Certificate for stand 2nd |
 | Rank 1ST     | **T-Shirt** & Certificate for 1st position |
+</div>
