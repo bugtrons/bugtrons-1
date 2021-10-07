@@ -7,4 +7,5 @@
 | vedaantrajeshirke@icloud.com | Vedaant Rajeshirke | [@rocktopus101](https://twitter.com/rocktopus101) | Looking forward to this! |
 | souvikrajsingh@gmail.com | Souvik Raj Singh | [@souvikrajsingh](https://twitter.com/souvikrajsingh) | Excited for this! |
 | abhiman1211@gmail.com | Abhiman Gautam | [@abhiman83836119](https://twitter.com/abhiman83836119) | Estoy emocionado! |
+| anshupriya1278@gmail.com | Anshu Priya | [@@anshupriyastwt](https://twitter.com/anshupriyastwt) | Super Excited 🥳 |
 | kumarchandan41u@gmail.com | chandan kr yadav | [chandan kumar](https://twitter.com/erchandandev) | console.log(Excited for this!) |
