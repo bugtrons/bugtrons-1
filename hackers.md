@@ -10,3 +10,4 @@
 | anshupriya1278@gmail.com | Anshu Priya | [@@anshupriyastwt](https://twitter.com/anshupriyastwt) | Super Excited 🥳 |
 | kumarchandan41u@gmail.com | chandan kr yadav | [chandan kumar](https://twitter.com/erchandandev) | console.log(Excited for this!) |
 | vermaanshi198@gmail.com | Chayanshi verma | [@Chayanshi55249804](https://twitter.com/kenma55249804) | |
+| anuragsharma011011@gmail.com | Anurag Sharma| [@AnuragS63108526](https://twitter.com/AnuragS63108526) | Happy to be here |
