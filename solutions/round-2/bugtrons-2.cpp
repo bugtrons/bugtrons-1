@@ -4,23 +4,20 @@ using namespace std;
 int maxProfitofBitcoin(int rate[], int start, int end)
 {
 
-    // If the stocks can't be bought
+    // If the bitcoins can't be bought
     if (end <= start)
         return 0;
 
     // Initialise the profit
     int profit = 0;
 
-    // The day at which the stock
-    // must be bought
+    // The day at which the bitcoin must be bought
     for (int i = start; i < end; i++) {
 
-        // The day at which the
-        // stock must be sold
+        // The day at which the bitcoin must be sold
         for (int j = i + 1; j <= end; j++) {
 
-            // If buying the stock at ith day and
-            // selling it at jth day is profitable
+            // If buying the bitcoin at ith day and selling it at jth day is profitable
             if (rate[j] > rate[i]) {
 
                 // Update the current profit
