@@ -64,3 +64,12 @@ All divisions will be judge simultaneously. Top 3 Hackers will be awarded as bel
 | Rank 2nd     | **Stickers' pack** & Certificate for stand 2nd |
 | Rank 1ST     | **T-Shirt** & Certificate for 1st position |
 </div>
+
+<br />
+
+<div align="center">
+  <h2 align="center"> 🏆 DEBUG CHAMPS </h2>
+</div> 
+<p align="center">
+    <img width="100%" src="assets/debug-champs.png">
+</p>
