@@ -4,7 +4,6 @@
 <div align="center">
   <h4 align="center"> DEBUG THE CODE TO RISE & SHINE ✨ </h4>
 </div>
-<br />
 <p align="center">
     <img width="100%" alt="Event banner" src="assets/bugtrons-banner.png">
 </p>
