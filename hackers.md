@@ -25,3 +25,4 @@
 | 23. | hrituhkv04@gmail.com | Hritu Kumari | [@hrituhkv](https://twitter.com/hrituhkv) | Let's try this! |
 | 24. | connect.chiranjeev@gmail.com | Chiranjeev Thapliyal | [@Chiranjeev_25](https://twitter.com/Chiranjeev_25) | First competition! Let's go! 😅 |
 | 25. | happybusiness2008@gmail.com | Harsh Tripathi | [@Happy_2008_](https://twitter.com/Happy_2008_) | Loaded |
+| 26. | ruchikasuryawanshi710@gmail.com | Ruchika Suryawanshi | [@RuchikaSuryawa4](https://twitter.com/RuchikaSuryawa4) |  Excited for this!  |
